@@ -38,5 +38,5 @@ kubectl get ksvc helloworld-java-spring \
 ```
 curl http://helloworld-java-spring.default.127.0.0.1.xip.io
 
-Hello World
+Hello Spring Boot Sample v1
 ```
