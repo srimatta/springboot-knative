@@ -17,7 +17,7 @@ Running springboot microservices as knative serverless application.
 
     `docker push {username}/helloworld-java-spring`
     
-    Here "username" is here dockerhub username.
+    "username" is here dockerhub username.
 
 3)  Running apllication as Knative service 
 
